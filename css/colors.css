@@ -1,0 +1,346 @@
+@charset "utf-8";
+::-moz-selection
+{
+    background: #DF8428;
+}
+::selection
+{
+    background: #DF8428;
+}
+a
+{
+    color: #DF8428;
+}
+a:hover,
+a:focus,
+a:active,
+a.active
+{
+    color: #AD4E25;
+}
+
+header
+{
+    color: white;
+}
+
+img::selection
+{
+    background: transparent;
+}
+img::-moz-selection
+{
+    background: transparent;
+}
+
+ul.social-buttons li a
+{
+    background-color: #222222;
+    color: white;
+}
+ul.social-buttons li a:hover,
+ul.social-buttons li a:focus,
+ul.social-buttons li a:active
+{
+    background-color: #DF8428;
+}
+
+.background_color_orange
+{
+    background-color: #DF8428;
+}
+
+.join_item
+{
+    background: #222222;
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
+    -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
+}
+.join_item:hover
+{
+    color: #BBBBBB;
+    background: rgba(173, 78, 37, 0.4);
+    -moz-box-shadow: 0px 8px 16px -4px rgba(0, 0, 0, 0.13);
+    box-shadow: 0px 8px 16px -4px rgba(0, 0, 0, 0.13);
+}
+.join_item:hover .join_image
+{
+    color: #FFFFFF;
+    background: #DF8428;
+}
+
+.join_image
+{
+    background: #DF8428;
+    color: rgba(255, 255, 255, 0.8);
+    -webkit-transition: color 0.3s, background 0.3s;
+    transition: color 0.3s, background 0.3s;
+}
+
+.join_reflections li
+{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.join_action
+{
+    color: #FFFFFF;
+    background: #AD4E25;
+}
+.join_action:hover,
+.join_action:focus
+{
+    background: #6EA76B;
+}
+
+.primary_text
+{
+    color: #DF8428;
+}
+
+.btn-primary
+{
+    color: white;
+    background-color: #DF8428;
+    border-color: #DF8428;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle .btn-primary
+{
+    color: white;
+    background-color: #ad4e25;
+    border-color: #f6bf01;
+}
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active
+{
+    background-color: #DF8428;
+    border-color: #DF8428;
+}
+.btn-primary .badge
+{
+    color: #DF8428;
+    background-color: white;
+}
+
+.btn-xl
+{
+    color: white;
+    background-color: #DF8428;
+    border-color: #DF8428;
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 20px 40px;
+}
+.btn-xl:hover,
+.btn-xl:focus,
+.btn-xl:active,
+.btn-xl.active,
+.open .dropdown-toggle.btn-xl
+{
+    color: white;
+    background-color: #ad4e25;
+    border-color: #f6bf01;
+}
+
+.btn-xl.disabled,
+.btn-xl[disabled],
+fieldset[disabled] .btn-xl,
+.btn-xl.disabled:hover,
+.btn-xl[disabled]:hover,
+fieldset[disabled] .btn-xl:hover,
+.btn-xl.disabled:focus,
+.btn-xl[disabled]:focus,
+fieldset[disabled] .btn-xl:focus,
+.btn-xl.disabled:active,
+.btn-xl[disabled]:active,
+fieldset[disabled] .btn-xl:active,
+.btn-xl.disabled.active,
+.btn-xl[disabled].active,
+fieldset[disabled] .btn-xl.active
+{
+    background-color: #DF8428;
+    border-color: #DF8428;
+}
+.btn-xl .badge
+{
+    color: #DF8428;
+    background-color: white;
+}
+
+.navbar-custom
+{
+    background-color: #222222;
+    border-color: transparent;
+}
+.navbar-custom .navbar-brand
+{
+    color: #DF8428;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active
+{
+    color: #AD4E25;
+}
+.navbar-custom .navbar-collapse
+{
+    border-color: rgba(255, 255, 255, 0.02);
+}
+.navbar-custom .navbar-toggle
+{
+    background-color: #DF8428;
+    border-color: #DF8428;
+    color: white;
+}
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus
+{
+    background-color: #DF8428;
+}
+.navbar-custom .nav li a
+{
+    color: white;
+}
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus
+{
+    color: #888888;
+}
+.navbar-custom .navbar-nav > .active > a
+{
+    color: white;
+    background-color: #DF8428;
+}
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus
+{
+    color: white;
+    background-color: #ad4e25;
+}
+
+.speechbubble_leerling
+{
+    background-color: #DF8428;
+    color: #fff;
+}
+
+.speechbubble_coach
+{
+    background: #FFFFFF;
+    color: #DF8428;
+}
+
+.speechbubble_coach_triangle:before
+{
+    border-left: 10px solid transparent;
+    border-right: 10px solid #FFFFFF;
+    border-top: 10px solid #FFFFFF;
+    border-bottom: 10px solid transparent;
+}
+
+.speechbubble_leerling_triangle:before
+{
+    border-left: 10px solid #DF8428;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #DF8428;
+    border-bottom: 10px solid transparent;
+}
+
+.timeline:before
+{
+    background-color: #f1f1f1;
+}
+.timeline > li .timeline-image
+{
+    background-color: #DF8428;
+    color: white;
+    border: 7px solid #f1f1f1;
+}
+.timeline .timeline-heading h4
+{
+    color: inherit;
+}
+
+#about
+{
+    color: #FFFFFF;
+}
+
+#partners .partners-item .partners-link .partners-hover
+{
+    background: rgba(254, 209, 54, 0.9);
+}
+#partners .partners-item .partners-link .partners-hover .partners-hover-content
+{
+    color: white;
+}
+#partners .partners-item .partners-caption
+{
+    background-color: white;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover
+{
+    background: rgba(254, 209, 54, 0.9);
+}
+#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content
+{
+    color: white;
+}
+#portfolio .portfolio-item .portfolio-caption
+{
+    background-color: #EEEEEE;
+}
+
+#tijdlijn
+{
+    color: white;
+}
+
+#mission
+{
+    color: white;
+}
+
+/* change navbar background on collapse */
+@media (max-width: 768px)
+{
+    .navbar-collapse.collapse.in
+    {
+        background-color:#000000;
+    }
+}
+
+@media (min-width: 768px)
+{
+    .navbar-custom
+    {
+        background-color: transparent;
+    }
+    .navbar-custom.affix
+    {
+      background-color: #222222;
+    }
+}

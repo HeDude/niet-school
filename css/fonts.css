@@ -1,0 +1,257 @@
+@charset "utf-8";
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+@import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
+@import url("https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700");
+
+body
+{
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+footer span.copyright
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+footer ul.quicklinks
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+header .intro-text .intro-lead-in
+{
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 22px;
+}
+header .intro-text .intro-heading
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+p
+{
+    font-size: 14px;
+}
+p.large
+{
+    font-size: 16px;
+}
+
+section h2.section-heading
+{
+    font-size: 40px;
+}
+section h3.section-subheading
+{
+    font-size: 16px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+ul.social-buttons li a
+{
+    font-size: 20px;
+}
+
+.btn-primary
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+.btn-xl
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.join_image
+{
+    font-weight: bold;
+}
+
+.join_action
+{
+    font-weight: bold;
+}
+
+.join_reflections li
+{
+    font-size: 16px;
+}
+
+.speechbubble_leerling
+{
+    font-weight: 900;
+    font-family: arial;
+}
+
+.speechbubble_coach
+{
+    font-weight: 900;
+    font-family: arial;
+}
+
+.navbar-custom .navbar-brand
+{
+    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+}
+.navbar-custom .navbar-toggle
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+.navbar-custom .nav li a
+{
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+.timeline > li .timeline-image h4
+{
+    font-size: 10px;
+}
+
+#partners .partners-item .partners-link .partners-hover .partners-hover-content
+{
+    font-size: 20px;
+}
+#partners .partners-item .partners-caption p
+{
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content
+{
+    font-size: 20px;
+}
+#portfolio .portfolio-item .portfolio-caption p
+{
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+
+/* iPhone 5/SE */
+@media (min-width: 320px)
+{
+    section h2.section-heading
+    {
+        font-size: 30px;
+    }
+    section h3.section-subheading
+    {
+        font-size: 14px;
+    }
+    .join_reflections li
+    {
+        font-size: 12px;
+    }
+}
+
+/* Galaxy S5 */
+@media (min-width: 360px)
+{
+    section h2.section-heading
+    {
+        font-size: 30px;
+    }
+    section h3.section-subheading
+    {
+        font-size: 14px;
+    }
+    .join_reflections li
+    {
+        font-size: 14px;
+    }
+}
+
+/* Pixel 2 */
+@media (min-width: 411px)
+{
+    section h2.section-heading
+    {
+        font-size: 30px;
+    }
+    section h3.section-subheading
+    {
+        font-size: 14px;
+    }
+    .join_reflections li
+    {
+        font-size: 10px;
+    }
+}
+
+/* iPhone 6/7/8 SL */
+@media (min-width: 414px)
+{
+    .join_reflections li
+    {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 768px)
+{
+    header .intro-text .intro-lead-in
+    {
+        font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-style: italic;
+        font-size: 40px;
+    }
+    header .intro-text .intro-heading
+    {
+        font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 75px;
+    }
+    .navbar-custom .navbar-brand
+    {
+        font-size: 2em;
+    }
+    .navbar-custom.affix .navbar-brand
+    {
+        font-size: 1.5em;
+    }
+    .timeline > li .timeline-image h4
+    {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 992px)
+{
+    .timeline > li .timeline-image h4
+    {
+        font-size: 18px;
+    }
+}
+
+/* iPad Pro */
+@media (min-width: 1024px)
+{
+    .join_reflections li
+    {
+        font-size: 12px;
+    }
+}
