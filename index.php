@@ -441,9 +441,9 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team_member">
-                        <img src="image/team/marielle_janssen.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Mariëlle Janssen</h4>
-                        <p class="color_gray_muted">Coach</p>
+                        <img src="image/team/vacant.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Vacant</h4>
+                        <p class="color_gray_muted">Facilitator</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
