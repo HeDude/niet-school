@@ -434,7 +434,7 @@
                             </li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://www.linkedin.com/in/henk-roelofs-8428935"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -464,7 +464,7 @@
                             </li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://www.linkedin.com/in/latinisima/"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
