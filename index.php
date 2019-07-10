@@ -76,7 +76,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-heading"><b>niet</b>-<b>school</b></div>
+                <div class="intro-heading"><b>niet</b>-<b>school</b>?!</div>
                 <div class="intro-lead-in">Leren zonder onderwijs</div>
                 <a href="doc/whitepaper_niet-school.pdf" class="pagescroller btn btn-xl">Whitepaper</a>
             </div>
