@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Niet-School Wel Geleerd</title>
+    <title>Niet School Wel Geleerd</title>
 
     <link rel="apple-touch-icon"                  sizes="57x57"   href="image/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon"                  sizes="60x60"   href="image/favicon//apple-icon-60x60.png">
