@@ -140,7 +140,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Leren</h2>
+                    <h2 class="section-heading">Niet-school</h2>
+                    <h3 class="strategy_heading">Leren</h3>
                     <h3 class="section-subheading color_gray_muted">zo succesvol dat leerlingen het <b>niet</b>-<b>school</b> noemen.<br/></h3>
                 </div>
             </div>
