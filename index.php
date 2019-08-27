@@ -174,7 +174,7 @@
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="strategy_heading">leerplatform</h4>
-                    <p class="strategy_text color_gray_muted">zo leerrijk dat<br/>leerrebellen die <b>niet</b> het onderwijs begrijpen<br/>toch een <b>school</b> oprichten</p>
+                    <p class="strategy_text color_gray_muted">zo leerrijk dat<br/>leerrebellen die <b>niet</b> onderwijs willen<br/>toch een <b>school</b> oprichten</p>
                 </div>
             </div>
             <hr>
