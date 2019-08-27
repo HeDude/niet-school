@@ -191,8 +191,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Tijdlijn</h2>
-                    <h3 class="section-subheading color_gray_light">De volgende planning proberen we te halen.<br/>Op grond van het resultaat bepalen we of we verder kunnen of het anders moeten aanpakkn.</h3>
+                    <h2 class="section-heading">Inbreng</h2>
+                    <h3 class="section-subheading color_gray_light">De volgende spelregels hanteren we voor het steunen van projecten die de missie bereiken.</h3>
                 </div>
             </div>
             <div class="row">
@@ -204,12 +204,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Juli 2019</h4>
-                                    <h4 class="subheading">Consensus</h4>
+                                    <h4>Belofte</h4>
+                                    <h4 class="subheading">Mede-eigenaarschap</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="color_gray_light">De pioniers bereiken consensus over de missie, strategie en doelen.
-                                        Dit wordt verwoord in een whitepaper en een website.
+                                    <p class="color_gray_light">De inbrenger van een project vraagt om de al aanwezige lappendeken aan te vullen. Een waardevolle toevoeging wordt beloond door mede-eigenaarschap.
                                     </p>
                                 </div>
                             </div>
@@ -220,12 +219,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Augustus 2019</h4>
-                                    <h4 class="subheading">Ontwikkelaars</h4>
+                                    <h4>Missiewerk</h4>
+                                    <h4 class="subheading">Leren maakt gelukkig</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="color_gray_light">Een ontwikkelteam wordt gevormd met mensen die zich aanmelden na een oproep in het eigen netwerk en via social media.
-                                        De ontwikkelaars brengen alles wat ze willen delen met de community in.
+                                    <p class="color_gray_light">De kwaliteit van het (idee voor een) project wordt gedegen getest op de mate waarin de acceptatie, effectiviteit en efficiëntie van leren ten opzichte van het bestaande wordt vergroot.
                                     </p>
                                 </div>
                             </div>
@@ -236,12 +234,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>September 2019</h4>
-                                    <h4 class="subheading">Concept</h4>
+                                    <h4>Participatie</h4>
+                                    <h4 class="subheading">Bekend maakt bemind</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="color_gray_light">De ontwikkelaar geeft aan of een bijdrage mag worden gedeeld met de wereld (wiki) of alleen de community (leeromgeving).
-                                        Vanuit het ingebrachte ontstaat er een outline en een eerste concept.
+                                    <p class="color_gray_light">Leden uit het netwerk zullen door mee te helpen al doende leren welke waarde zij kunnen toevoegen. De inbrenger bepaalt welke toevoegingen worden geadopteerd.
                                     </p>
                                 </div>
                             </div>
@@ -249,6 +246,16 @@
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>GO<br/>of<br/>NO GO</h4>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Deal</h4>
+                                    <h4 class="subheading">Halen en brengen</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="color_gray_light">Als met de waardevolle adopties het project kansrijk wordt geacht, dan zal de hulp van het netwerk in tijd, expertise, geld en middelen worden geformaliseerd.
+                                    </p>
+                                </div>
                             </div>
                         </li>
                     </ul>
