@@ -223,7 +223,7 @@
                                 <h4 class="subheading">Leren maakt gelukkig</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="color_gray_light">De kwaliteit van het (idee voor een) project wordt gedegen getest op de mate waarin de acceptatie, effectiviteit en efficiëntie van leren ten opzichte van het bestaande wordt vergroot.
+                                <p class="color_gray_light">De kwaliteit van het (idee voor een) project wordt gedegen getest op de mate waarin de effectiviteit en efficiëntie van leren ten opzichte van het bestaande wordt vergroot.
                                 </p>
                             </div>
                         </div>
