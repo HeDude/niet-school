@@ -191,8 +191,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Inbreng</h2>
-                <h3 class="section-subheading color_gray_light">De volgende spelregels hanteren we voor het steunen van projecten die de missie bereiken.</h3>
+                <h2 class="section-heading">Welgeleerd</h2>
+                <h3 class="section-subheading color_gray_light">De spelregels voor het steunen van projecten die zorgen dat leren mensen gelukkiger maken, zijn;</h3>
             </div>
         </div>
         <div class="row">
@@ -253,7 +253,7 @@
                                 <h4 class="subheading">Halen en brengen</h4>
                             </div>
                             <div class="timeline-body">
-                                <p class="color_gray_light">Als met de waardevolle adopties het project kansrijk wordt geacht, dan zal de hulp van het netwerk in tijd, expertise, geld en middelen worden geformaliseerd.
+                                <p class="color_gray_light">Als met de waardevolle adopties het project kansrijk wordt geacht, dan zal de hulp van en deelname aan het netwerk worden geformaliseerd.
                                 </p>
                             </div>
                         </div>
