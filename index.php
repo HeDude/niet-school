@@ -439,10 +439,6 @@
                         <h4>Henk Roelofs</h4>
                         <p class="color_gray_muted">Moderator</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
                             <li><a href="https://www.linkedin.com/in/henk-roelofs-8428935"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
@@ -450,15 +446,11 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team_member">
-                        <img src="image/team/vacant.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Vacant</h4>
+                        <img src="image/team/jan_vrielink.png" class="img-responsive img-circle" alt="">
+                        <h4>Jan Vrielink</h4>
                         <p class="color_gray_muted">Facilitator</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            <li><a href="mailto:jan.vrielink@ziggo.nl"><i class="fa fa-envelope "></i></a>
                             </li>
                         </ul>
                     </div>
@@ -469,10 +461,6 @@
                         <h4>Garlon Hasham</h4>
                         <p class="color_gray_muted">Promotor</p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
                             <li><a href="https://www.linkedin.com/in/latinisima/"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
