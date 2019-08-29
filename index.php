@@ -366,7 +366,7 @@
                 </a>
                 <div class="portfolio-caption">
                     <h4>Me Science</h4>
-                    <p class="color_gray_muted">Wetenschap over persoonlijk geluk</p>
+                    <p class="color_gray_muted">Wijsheid over geluk</p>
                 </div>
             </div>
         </div>
