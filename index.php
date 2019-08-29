@@ -365,8 +365,8 @@
                     <img src="image/portfolio/nowscience.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Nowscience</h4>
-                    <p class="color_gray_muted">Wijsheid en wetenschap</p>
+                    <h4>Me Science</h4>
+                    <p class="color_gray_muted">Wetenschap over persoonlijk geluk</p>
                 </div>
             </div>
         </div>
