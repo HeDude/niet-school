@@ -54,7 +54,7 @@
                         <a class="pagescroller" href="#strategy">Strategie</a>
                     </li>
                     <li>
-                        <a class="pagescroller" href="#tijdlijn">Tijdlijn</a>
+                        <a class="pagescroller" href="#steun">Steun</a>
                     </li>
                     <li>
                         <a class="pagescroller" href="#partners">Partners</a>
@@ -187,7 +187,7 @@
         </div>
     </section>
 
-    <section id="tijdlijn" class="background_color_orange">
+    <section id="steun" class="background_color_orange">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -204,11 +204,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Belofte</h4>
-                                    <h4 class="subheading">Mede-eigenaarschap</h4>
+                                    <h4>Leerplatform</h4>
+                                    <h4 class="subheading">Missiewerk</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="color_gray_light">De inbrenger van een project vraagt om de al aanwezige lappendeken aan te vullen. Een waardevolle toevoeging wordt beloond door mede-eigenaarschap.
+                                    <p class="color_gray_light">Het leerplatform is volledig open voor iedereen die de missie van Niet-School Welgeleerd omarmt.
                                     </p>
                                 </div>
                             </div>
@@ -219,11 +219,11 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Missiewerk</h4>
-                                    <h4 class="subheading">Leren maakt gelukkig</h4>
+                                    <h4>Leeromgeving</h4>
+                                    <h4 class="subheading">Leerscan</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="color_gray_light">De kwaliteit van het (idee voor een) project wordt gedegen getest op de mate waarin de effectiviteit en efficiëntie van leren ten opzichte van het bestaande wordt vergroot.
+                                    <p class="color_gray_light">Een onderwijsproject die "leren maakt gelukkig" ondersteunt en voor de effectiviteit en efficiëntie onze aanbevelingen wenst in te voeren, krijgt hulp via onze leeromgeving.
                                     </p>
                                 </div>
                             </div>
@@ -234,26 +234,26 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Participatie</h4>
-                                    <h4 class="subheading">Bekend maakt bemind</h4>
+                                    <h4>Leercommunity</h4>
+                                    <h4 class="subheading">Mede-eigenaarschap</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="color_gray_light">Leden uit het netwerk zullen door mee te helpen al doende leren welke waarde zij kunnen toevoegen. De inbrenger bepaalt welke toevoegingen worden geadopteerd.
+                                    <p class="color_gray_light">De inbrenger van een project kan (bovenop de leeromgeving) de leercommunity vragen om aan te vullen. Onder het mom "bekend maakt bemind" draaien leden uit het netwerk vrijblijvend mee. Alleen een waardevolle toevoeging wordt beloond door mede-eigenaarschap.
                                     </p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>GO<br/>of<br/>NO GO</h4>
+                                <img class="img-circle img-responsive" src="image/about/ballotage.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Deal</h4>
-                                    <h4 class="subheading">Halen en brengen</h4>
+                                    <h4>Netwerk</h4>
+                                    <h4 class="subheading">Ballotage</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="color_gray_light">Als met de waardevolle adopties het project kansrijk wordt geacht, dan zal de hulp van en deelname aan het netwerk worden geformaliseerd.
+                                    <p class="color_gray_light">Het Niet-school Welgeleerd netwerk laat leden toe die voldoen aan hoge eisen zodat een beroep op het netwerk een beroep op kwaliteit is. Ze zijn in ieder geval stakeholder bij één van de gesteunde onderwijsprojecten.
                                     </p>
                                 </div>
                             </div>
