@@ -1,5 +1,6 @@
 # NOT-school
 Unconscious learning in a playground
+Regulating learning by AI
 ## Introduction
 The NOT-school is an innovative educational concept that transcends the traditional boundaries of school buildings and standardized curricula. The concept is based on a learning environment in which the learner does not feel like they are in a school, but rather in a playground where they can play freely. The focus is on unconscious learning, where the conscious learning process and the associated educational functions (feedback, monitoring, practice, testing, learning activities, etc.) are regulated by the environment.
 
